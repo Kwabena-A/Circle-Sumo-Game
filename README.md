@@ -1,7 +1,7 @@
 # 🔵 Circle Sumo Game
 A Simple Survival Game That Challenges Your Ability to Evade 
 ### 🎮 Gameplay 
-![Sample Image](Assets/Screenshots/kM2VXnb.png)
+![▶ Watch demo](Assets/GameDemo.mp4)
 
 ## 📦 Features
 - Single Player
